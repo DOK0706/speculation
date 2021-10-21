@@ -22,7 +22,6 @@
 		"21": "item/festival/coroskai/crowd_x_flip",
 		"22": "item/festival/coroskai/led_wall",
 		"23": "item/festival/coroskai/led_texture",
-		"24": "item/festival/coroskai/beach_in_texture",
 		"25": "item/festival/coroskai/beach_sides_texture",
 		"26": "item/festival/coroskai/beach_sides_x_flip_texture",
 		"particle": "item/festival/coroskai/crowd_x_flip"
@@ -34,9 +33,9 @@
 			"faces": {
 				"north": {"uv": [0, 0, 16, 0.125], "texture": "#5"},
 				"east": {"uv": [0, 8.35938, 10, 9.35938], "texture": "#25"},
-				"south": {"uv": [0, 7.48438, 16, 8.73438], "texture": "#24"},
+				"south": {"uv": [0, 12.875, 16, 14.125], "texture": "#3"},
 				"west": {"uv": [6, 8.35938, 16, 9.35938], "texture": "#26"},
-				"up": {"uv": [0, 0.5, 16, 16], "texture": "#2"},
+				"up": {"uv": [0, 0.5, 16, 15], "texture": "#2"},
 				"down": {"uv": [0, 1, 16, 16], "texture": "#3"}
 			}
 		},
