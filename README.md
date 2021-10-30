@@ -31,12 +31,12 @@
 
 ## 지역목록 (✔️확정)
 
-* 기본 건축물 - `adfgdfg` `monun`
-* 시작 -
+* ✔️기본 건축물 - `adfgdfg` `✔️monun`
+* 시작 - `jung27`
 * ✔️감옥 - `✔️kinglee2005`
-* 포탈 -
-* 축제 -
-* 국세청 -
+* ✔️포탈 - `✔️degree2121`
+* ✔️축제 - `✔️coroskai`
+* ✔️국세청 - `✔️piese1028`
 
 
   ---
@@ -49,8 +49,8 @@
 * ✔️안동(10000) - `✔️adfgdfg` `degree2121`
 * ✔️평창(11900) - `implan` `irving_braxiatel` `✔️jhhan611` `piggy3590`
 * 보령(10200) - `traloc_dheckoa`
-* ✔️횡성(11300) - `adfgdfg` `sgkill6`
-* ✔️강화(10900) - `hgnb0508`
+* ✔️횡성(11300) - `adfgdfg` `✔️sgkill6`
+* ✔️강화(10900) - `✔️hgnb0508`
 
 
 * ✔️태백(12300) - `✔️adfgdfg` `degree2121`

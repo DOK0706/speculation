@@ -303,9 +303,9 @@
 	],
 	"display": {
 		"fixed": {
-			"rotation": [-90, 0, 0],
-			"translation": [0, -13, -16],
-			"scale": [2, 2, 2]
+			"rotation": [-90, -180, 0],
+			"translation": [0, 28, -25],
+			"scale": [3, 3, 3]
 		}
 	}
 }
