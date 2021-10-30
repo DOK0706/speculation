@@ -27,6 +27,12 @@
         "custom_model_data": 1003
       },
       "model": "item/portal/degree2121/portal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1004
+      },
+      "model": "item/tax/piese1028/tax"
     }
   ]
 }
