@@ -33,6 +33,12 @@
         "custom_model_data": 1004
       },
       "model": "item/tax/piese1028/tax"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1005
+      },
+      "model": "item/casino/piese1028/casino"
     }
   ]
 }
